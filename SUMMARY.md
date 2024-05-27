@@ -9,5 +9,5 @@
 * [Ajustamento de Observações](ajustamento-de-observacoes.md)
 * [1. Método dos Mínimos Quadrados (MMQ)](1.-metodo-dos-minimos-quadrados-mmq.md)
 * [2. Método das Equações de Condição (Correlatos)](2.-metodo-das-equacoes-de-condicao-correlatos.md)
-* [Aula 01](aula-01.md)
 * [Método das Equações de Condição ou dos Correlatos](metodo-das-equacoes-de-condicao-ou-dos-correlatos.md)
+* [Aula 01](aula-01.md)
