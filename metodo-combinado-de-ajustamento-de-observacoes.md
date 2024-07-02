@@ -16,11 +16,11 @@ O método combinado de ajustamento de observações é uma técnica avançada ut
 
 O modelo matemático do método combinado é expresso pela função:
 
-\[ F(X, L) = 0 ]
+$$F(X, L) = 0$$
 
 Para linearizar esta função, fazemos:
 
-\[ F(X + \Delta X, L + \Delta L) \approx F(X, L) + A \Delta X + B \Delta L ]
+$$F(X + \Delta X, L + \Delta L) \approx F(X, L) + A \Delta X + B \Delta L$$
 
 Onde ( A ) e ( B ) são as matrizes de derivadas parciais de ( F ) com respeito a ( X ) e ( L ), respectivamente.
 
@@ -64,7 +64,7 @@ Considere o ajuste das coordenadas de quatro pontos observados:
 
 #### Modelo Matemático:
 
-\[ (x\_i - x\_a)^2 + (y\_i - y\_a)^2 - r\_a^2 = 0 ]
+$$(x_i - x_a)^2 + (y_i - y_a)^2 - r_a^2 = 0$$
 
 #### Procedimento:
 
@@ -75,21 +75,30 @@ Considere o ajuste das coordenadas de quatro pontos observados:
     X0 = [70, 120, 100]
     P = eye(8)  # Matriz identidade de 8x8
     ```
-2.  Calcular as matrizes A e B:
+2. Calcular as matrizes A e B:
 
-    ```markdown
-    A = ∂F/∂X |_(X0, Lb)
-    B = ∂F/∂L |_(X0, Lb)
-    ```
-3.  Formar e resolver o sistema linearizado:
+$$A = ∂F/∂X |_(X0, Lb)$$
 
-    ```markdown
-    AX + BV + W = 0
-    TBBPM = B^T P B
-    WMAAMAX = (A^T P A)^{-1} (A^T P W - B^T P V)
-    X = X0 + ΔX
-    ```
-4. Iterar até convergência.
+$$B = ∂F/∂L |_(X0, Lb)$$
+
+1. Formar e resolver o sistema linearizado:
+
+AX + BV + W = 0
+
+$$K = \begin{bmatrix} A^T P A & A^T P B \ B^T P A & B^T P B \end{bmatrix}$$
+
+$$C = -\begin{bmatrix} A^T P W \ B^T P W \end{bmatrix}$$
+
+
+
+```markdown
+AX + BV + W = 0
+TBBPM = B^T P B
+WMAAMAX = (A^T P A)^{-1} (A^T P W - B^T P V)
+X = X0 + ΔX
+```
+
+1. Iterar até convergência.
 
 ### Conclusão
 
