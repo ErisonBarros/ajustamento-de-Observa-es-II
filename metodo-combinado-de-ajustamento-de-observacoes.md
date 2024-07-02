@@ -48,14 +48,41 @@ $$
     ```
 
     Onde ( W ) é o vetor dos resíduos iniciais.
-2.  **Resolução das Equações Normais:**
+2. **Resolução das Equações Normais:**
 
-    ```markdown
-    TBBPM = B^T P B
-    WMAAMAX = (A^T P A)^{-1} (A^T P W - B^T P V)
-    X = X0 + ΔX
-    ```
-3. **Iterações:** Repetir os cálculos acima até que a correção ( ΔX ) seja suficientemente pequena.
+#### 4. Resolução das Equações Normais
+
+Para resolver o sistema linearizado, seguimos os seguintes passos:
+
+1.  **Multiplicação pela Transposta:** Multiplicamos a equação linearizada $$AX + BV + W = 0$$ pela transposta de ( A ) e de ( B ) para formar o sistema das equações normais:
+
+    $$A^T P (AX + BV + W) = 0$$$$B^T P (AX + BV + W) = 0$$
+
+    Isso resulta no sistema de equações:
+
+    $$A^T P A X + A^T P B V + A^T P W = 0$$ $$B^T P A X + B^T P B V + B^T P W = 0$$
+2.  **Formação das Matrizes ( K ) e ( C ):** Reorganizamos as equações normais na forma matricial:
+
+    $$K = \begin{bmatrix} A^T P A & A^T P B \ B^T P A & B^T P B \end{bmatrix}$$
+
+    $$C = -\begin{bmatrix} A^T P W \ B^T P W \end{bmatrix}$$
+3.  **Resolução do Sistema Linear:** Calculamos $$\Delta X$$ e $$\Delta V$$resolvendo o sistema:
+
+    $$K \begin{bmatrix} \Delta X \ \Delta V \end{bmatrix} = C$$
+
+    Para isso, podemos usar métodos numéricos, como a decomposição LU ou a inversão direta da matriz $$K$$.
+
+**Implementação em Python**
+
+Aqui está como você pode implementar a resolução desse sistema em Python:
+
+```markdown
+TBBPM = B^T P B
+WMAAMAX = (A^T P A)^{-1} (A^T P W - B^T P V)
+X = X0 + ΔX
+```
+
+1. **Iterações:** Repetir os cálculos acima até que a correção ( ΔX ) seja suficientemente pequena.
 
 ### Exemplo Prático
 
