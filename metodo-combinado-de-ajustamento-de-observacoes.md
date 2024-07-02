@@ -33,10 +33,13 @@ Onde ( A ) e ( B ) são as matrizes de derivadas parciais de ( F ) com respeito 
     ```
 2. **Cálculo das Matrizes A e B:**
 
-```markdown
-A = ∂F/∂X |_(X0, Lb)
-B = ∂F/∂L |_(X0, Lb)
-```
+$$
+A = \frac{∂F}{∂X}|_{(X0, Lb)}
+$$
+
+$$
+B = \frac{∂F}{∂X} |_{(X0, Lb)}
+$$
 
 1.  **Formação do Sistema Linearizado:**
 
