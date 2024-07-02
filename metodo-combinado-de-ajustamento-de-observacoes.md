@@ -1,7 +1,5 @@
 # Método Combinado de Ajustamento de Observações
 
-##
-
 ### Introdução
 
 O método combinado de ajustamento de observações é uma técnica avançada utilizada em geomática e outras áreas para ajustar valores observados e parâmetros simultaneamente. Este método é mais genérico que os métodos paramétrico e dos correlatos, pois combina elementos de ambos. A seguir, apresentaremos os principais conceitos, equações e procedimentos para a aplicação do método combinado.
@@ -33,27 +31,28 @@ Onde ( A ) e ( B ) são as matrizes de derivadas parciais de ( F ) com respeito 
     X0 = [parâmetros iniciais]
     P = [matriz de pesos]
     ```
-2.  **Cálculo das Matrizes A e B:**
+2. **Cálculo das Matrizes A e B:**
 
-    ```markdown
-    A = ∂F/∂X |_(X0, Lb)
-    B = ∂F/∂L |_(X0, Lb)
-    ```
-3.  **Formação do Sistema Linearizado:**
+```markdown
+A = ∂F/∂X |_(X0, Lb)
+B = ∂F/∂L |_(X0, Lb)
+```
+
+1.  **Formação do Sistema Linearizado:**
 
     ```markdown
     AX + BV + W = 0
     ```
 
     Onde ( W ) é o vetor dos resíduos iniciais.
-4.  **Resolução das Equações Normais:**
+2.  **Resolução das Equações Normais:**
 
     ```markdown
     TBBPM = B^T P B
     WMAAMAX = (A^T P A)^{-1} (A^T P W - B^T P V)
     X = X0 + ΔX
     ```
-5. **Iterações:** Repetir os cálculos acima até que a correção ( ΔX ) seja suficientemente pequena.
+3. **Iterações:** Repetir os cálculos acima até que a correção ( ΔX ) seja suficientemente pequena.
 
 ### Exemplo Prático
 
