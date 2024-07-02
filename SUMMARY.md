@@ -12,3 +12,4 @@
 * [Método das Equações de Condição ou dos Correlatos](metodo-das-equacoes-de-condicao-ou-dos-correlatos.md)
 * [Aula 01](aula-01.md)
 * [Exemplo de Aplicação](exemplo-de-aplicacao.md)
+* [Método Combinado de Ajustamento de Observações](metodo-combinado-de-ajustamento-de-observacoes.md)
