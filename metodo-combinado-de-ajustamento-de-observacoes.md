@@ -66,11 +66,11 @@ Para resolver o sistema linearizado, seguimos os seguintes passos:
     $$K = \begin{bmatrix} A^T P A & A^T P B \ B^T P A & B^T P B \end{bmatrix}$$
 
     $$C = -\begin{bmatrix} A^T P W \ B^T P W \end{bmatrix}$$
-3.  **Resolução do Sistema Linear:** Calculamos $$\Delta X$$ e $$\Delta V$$resolvendo o sistema:
+3. **Resolução do Sistema Linear:** Calculamos $$\Delta X$$ e $$\Delta V$$resolvendo o sistema:
 
-    $$K \begin{bmatrix} \Delta X \ \Delta V \end{bmatrix} = C$$
+&#x20;          $$K.\frac{\Delta X} {\Delta Y} =C$$
 
-    Para isso, podemos usar métodos numéricos, como a decomposição LU ou a inversão direta da matriz $$K$$.
+Para isso, podemos usar métodos numéricos, como a decomposição LU ou a inversão direta da matriz $$K$$.
 
 **Implementação em Python**
 
