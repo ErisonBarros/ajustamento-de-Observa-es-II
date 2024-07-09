@@ -13,3 +13,5 @@
 * [Aula 01](aula-01.md)
 * [Exemplo de Aplicação](exemplo-de-aplicacao.md)
 * [Método Combinado de Ajustamento de Observações](metodo-combinado-de-ajustamento-de-observacoes.md)
+* [Aula: Ajustamento com Injunções](aula-ajustamento-com-injuncoes.md)
+* [Método Combinado](metodo-combinado.md)
