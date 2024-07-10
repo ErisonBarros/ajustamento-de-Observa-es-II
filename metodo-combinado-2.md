@@ -1,4 +1,4 @@
-# Page
+# Método Combinado 2
 
 Trataremos agora de um caso mais geral que os dois anteriores cujo modelo matemático:
 
@@ -12,7 +12,7 @@ $$V=L_{a}−L_{b}$$
 
 $$X=X_{a}-X_{0}$$
 
-$$A = \frac{∂F}{∂X}|_{(X0, Lb)}$$;
+$$A = \frac{∂F}{∂X}|_{(X_{0}, L_{b})}$$;
 
 $$B = \frac{∂F}{∂X} |_{(X0, Lb)}$$;
 

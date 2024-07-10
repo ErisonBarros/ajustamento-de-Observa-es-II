@@ -1,13 +1,19 @@
 # Page 1
 
-$$F(X_{a}​,L_{a​})=F(X_{0}​+X,Lb​+V)≈F(X0​,Lb​)+∂Xa​∂F​​X0​​(Xa​−X0​)+∂La​∂F​​Lb​​(La​−Lb​)=0$$
+Introduzindo este valor do vetor ( K ) na (10.2.4):
 
-AX+BV+W=0AX + BV + W = 0AX+BV+W=0\$$
+$$A^T K = -A^T M^{-1} (AX + W) = 0, \tag{10.3.14}$$
 
-Admitindo que existam nnn valores observados e uuu parâmetros do tipo supra ligados por rrr equações, resultam as seguintes dimensões para as matrizes:
+$$A^T M^{-1} A X = -A^T M^{-1} W, \tag{10.3.15}$$
 
-rAu×uuX1+rBn×nnV1+rW1=01rA\_{u \times u} \quad uX\_{1} + rB\_{n \times n} \quad nV\_{1} + rW\_{1} = 0\_{1}rAu×u​uX1​+rBn×n​nV1​+rW1​=01​
+$$X = - (A^T M^{-1} A)^{-1} A^T M^{-1} W. \tag{10.3.16}$$
 
-Temos agora S=r−uS = r - uS=r−u graus de liberdade, sendo necessário que
+Obtidas as componentes ( x\_i ) do vetor das correções ( X ) através da (10.3.16) a sequência pode ser:
 
-n>r−un > r - un>r−u
+$$X_a = X_0 + X,$$
+
+$$K = -M^{-1} (AX + W), \tag{10.3.17}$$
+
+$$V = P^{-1} B^T K,$$
+
+\$$L\_a = L\_b + V. ]
