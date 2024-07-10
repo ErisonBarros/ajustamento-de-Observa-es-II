@@ -35,20 +35,20 @@ Erros são inevitáveis em qualquer processo de medição e podem ser classifica
 
 
 
-    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 2. **Erros Aleatórios**:
    * Decorrentes de variações imprevisíveis e incontroláveis durante o processo de medição.
    * Afetam a precisão das observações.
    * Exemplo: Flutuações na leitura de um voltímetro devido a ruído elétrico.
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 1. **Erros Grosseiros**
    * Resultam de falhas humanas, como leitura ou registro incorretos.
    * Geralmente grandes e facilmente detectáveis.
    * Exemplo: Escrever 100 em vez de 10 em uma tabela de dados.
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 **Precisão e Exatidão**
 

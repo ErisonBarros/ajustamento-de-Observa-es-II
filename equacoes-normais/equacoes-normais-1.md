@@ -1,4 +1,4 @@
-# Page 1
+# EQUAÇÕES NORMAIS
 
 Introduzindo este valor do vetor ( K ) na (10.2.4):
 
@@ -16,4 +16,4 @@ $$K = -M^{-1} (AX + W), \tag{10.3.17}$$
 
 $$V = P^{-1} B^T K,$$
 
-\$$L\_a = L\_b + V. ]
+$$L_a = L_b + V.$$

@@ -1,4 +1,4 @@
-# Método Combinado
+# Método Combinado 1
 
 Já consideramos dois métodos de ajustamento:
 
