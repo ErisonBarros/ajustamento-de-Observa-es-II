@@ -28,3 +28,4 @@
 * [Exercício](exercicio/README.md)
   * [Replicação de Exrecício](https://colab.research.google.com/drive/1O4RMhXSFdR7tFguHtkuxiumKRUQkD1f3?usp=sharing)
 * [Elipse de Erro](elipse-de-erro.md)
+* [Page](page.md)
