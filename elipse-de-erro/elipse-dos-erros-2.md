@@ -6,7 +6,7 @@ a) Os desvios padrões máximo e mínimo correspondem aos semi-eixos maior e men
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

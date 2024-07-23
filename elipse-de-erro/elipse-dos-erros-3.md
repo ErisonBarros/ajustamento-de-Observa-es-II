@@ -1,4 +1,4 @@
-# Page
+# Elipse dos Erros
 
 $$
 M^2 = 4\sigma_{xy}^2 + (\sigma_x^2 - \sigma_y^2)^2
@@ -27,7 +27,7 @@ $$\sigma_{xy} = 0$$
 \
 $$t = 0°$$
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 \
 Resultado: Elipse se torna um círculo com semi-eixos iguais.
@@ -41,7 +41,7 @@ Resultado: Elipse se torna um círculo com semi-eixos iguais.
 &#x20;$$\sigma_{xy} \neq 0$$\
 $$t = 45°$$
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 \
 Resultado: Elipse inclinada.
@@ -56,7 +56,7 @@ Resultado: Elipse inclinada.
 $$t = 0°$$\
 
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ Resultado: Elipse alinhada ao eixo (x).
 $$\sigma_{xy} = 0$$\
 $$t = 90°$$
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 \
 Resultado: Elipse alinhada ao eixo (y).

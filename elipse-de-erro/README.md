@@ -20,4 +20,4 @@ $$
 \begin{bmatrix} \cos(t) & \sin(t) \\ -\sin(t) & \cos(t) \end{bmatrix}
 $$
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="151"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="151"><figcaption></figcaption></figure>
