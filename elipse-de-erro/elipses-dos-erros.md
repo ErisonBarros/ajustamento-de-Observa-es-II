@@ -1,6 +1,6 @@
 # Elipses dos Erros
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Representação gráfica da precisão das coordenadas de uma poligonal&#x20;
 
