@@ -4,7 +4,7 @@
 
 **Considere dois pontos distintos (i) e (j) em uma rede horizontal:**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
