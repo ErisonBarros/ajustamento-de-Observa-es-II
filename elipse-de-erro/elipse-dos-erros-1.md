@@ -12,7 +12,7 @@ $$
 
 Esta expressão admite duas raízes: t e  t+90°.
 
-Fazendo-se ( M^2 = 4\sigma\_{xy}^2 + (\sigma\_x^2 - \sigma\_y^2)^2 ) na primeira expressão, tem-se **máximo:**
+Fazendo-se $$M^2 = 4\sigma_{xy}^2 + (\sigma_x^2 - \sigma_y^2)^2$$ na primeira expressão, tem-se **máximo:**
 
 $$
 \sigma^2 = 0.5(\sigma_x^2 + \sigma_y^2 + M)
