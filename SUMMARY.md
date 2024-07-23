@@ -41,3 +41,4 @@
   * [Elipse de Erros Relativas entre Pontos](elipse-de-erro/elipse-de-erros-relativas-entre-pontos.md)
   * [Exercício de Fixação 1](elipse-de-erro/exercicio-de-fixacao-1.md)
   * [Exercício de Fixação 2](elipse-de-erro/exercicio-de-fixacao-2.md)
+* [Elipsoide dos Erro](elipsoide-dos-erro.md)
