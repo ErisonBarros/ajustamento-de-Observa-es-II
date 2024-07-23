@@ -43,3 +43,4 @@
   * [Exercício de Fixação 2](elipse-de-erro/exercicio-de-fixacao-2.md)
 * [Elipsoide dos Erro](elipsoide-dos-erro.md)
 * [Elipses (intervalo) de Confiança](elipses-intervalo-de-confianca.md)
+* [Elipsoide, Elipse e Barras de Confiança](elipsoide-elipse-e-barras-de-confianca.md)
