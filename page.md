@@ -1,25 +1,77 @@
 # Page
 
-### Elipse dos Erros
-
-A correspondente MVC pode ser obtida por propagação: Σ'\_xy' = D Σ\_xy D^T
-
-Σ'\_xy' =
-
 $$
-\begin{bmatrix} \cos(t) & \sin(t) \\ -\sin(t) & \cos(t) \end{bmatrix} \begin{bmatrix} \sigma^2_x & \sigma_{xy} \\ \sigma_{xy} & \sigma^2_y \end{bmatrix} \begin{bmatrix} \cos(t) & -\sin(t) \\ \sin(t) & \cos(t) \end{bmatrix}
-$$
-
-Segue-se que:
-
-$$
-\sigma_{x'}^2 = \sigma_x^2 \cos^2(t) + \sigma_y^2 \sin^2(t) + 2\sigma_{xy}\sin(t)\cos(t)
+M^2 = 4\sigma_{xy}^2 + (\sigma_x^2 - \sigma_y^2)^2
 $$
 
 $$
-\sigma_{y'}^2 = \sigma_x^2 \sin^2(t) + \sigma_y^2 \cos^2(t) - 2\sigma_{xy}\sin(t)\cos(t)
+\sigma^2 = 0.5(\sigma_x^2 + \sigma_y^2 \pm M)
 $$
 
 $$
-\sigma_{x'y'} = -(\sigma_x^2 - \sigma_y^2)\sin(t)\cos(t) + \sigma_{xy}(\cos^2(t) - \sin^2(t))
+\tan(2t) = \frac{2\sigma_{xy}}{\sigma_x^2 - \sigma_y^2}
 $$
+
+#### Casos particulares:
+
+
+
+***
+
+* **Quando** $$\sigma_x = \sigma_y$$
+
+$$\sigma_x = \sigma_y$$
+
+$$\sigma_{xy} = 0$$
+
+\
+$$t = 0°$$
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+\
+Resultado: Elipse se torna um círculo com semi-eixos iguais.
+
+
+
+***
+
+* **Quando** $$\sigma_x = \sigma_y$$
+
+&#x20;$$\sigma_{xy} \neq 0$$\
+$$t = 45°$$
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+\
+Resultado: Elipse inclinada.
+
+
+
+***
+
+* **Quando** $$\sigma_x > \sigma_y$$
+
+&#x20;$$\sigma_{xy} = 0$$\
+$$t = 0°$$\
+
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Resultado: Elipse alinhada ao eixo (x).
+
+
+
+***
+
+* **Quando** $$\sigma_x < \sigma_y$$
+
+$$\sigma_{xy} = 0$$\
+$$t = 90°$$
+
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+\
+Resultado: Elipse alinhada ao eixo (y).
