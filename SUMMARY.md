@@ -35,3 +35,5 @@
   * [Elipse dos Erros](elipse-de-erro/elipse-dos-erros-4.md)
   * [Elipse dos Erros](elipse-de-erro/elipse-dos-erros-5.md)
   * [Elipses dos Erros](elipse-de-erro/elipses-dos-erros.md)
+  * [Exercício de Fixação 1](elipse-de-erro/exercicio-de-fixacao-1.md)
+  * [Exercício de Fixação 2](elipse-de-erro/exercicio-de-fixacao-2.md)
