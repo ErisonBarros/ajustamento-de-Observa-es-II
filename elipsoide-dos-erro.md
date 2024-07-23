@@ -6,9 +6,9 @@
 
 Os seis elementos da matriz de covariância $$(\sigma_{x}^2, \sigma_{y}^2, \sigma_{z}^2, \sigma_{xy}, \sigma_{xz}, \sigma_{yz})$$ são convertidos nos seis parâmetros do elipsoide de erros $$(a, b, c, k, p, \omega)$$
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
