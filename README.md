@@ -10,7 +10,8 @@ Bem-vindo ao repositório da disciplina **Ajustamento de Observações II** do c
 
 ## 📚 Sobre a Disciplina
 
-O **Ajustamento de Observações** é uma disciplina fundamental que aborda métodos matemáticos e estatísticos para reduzir erros e melhorar a precisão de medições em levantamentos geodésicos e cartográficos. Os tópicos incluem:
+O **Ajustamento de Observações II** é uma disciplina fundamental que aborda métodos matemáticos e estatísticos para reduzir erros e melhorar a precisão de medições em levantamentos geodésicos e cartográficos. Os tópicos incluem:
+- [Introdução ao Python ](https://classroom.google.com/w/Njg2NzgyNTM3MDQz/tc/Njg2NzgyNTM3MDYw)
 
 - Introdução ao Ajustamento de Observações
 - Métodos de Mínimos Quadrados
