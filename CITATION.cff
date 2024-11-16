@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Aulas de Ajustamento de Observações II
+message: Notas de Aula
+type: dataset
+authors:
+  - family-names: Barros
+    name-particle: Erison
+    email: erison.barros@ufpe.br
+    given-names: Erison Rosa de Oliveirta
+    name-suffix: Dr.
+    affiliation: 'Erisonbarros.gitbook.io '
+    orcid: 'https://orcid.org/0000-0003-4879-6880'
+  - name: Universidade Federal de Pernambuco
+    address: >-
+      Av. Prof. Moraes Rego, 1235 - Cidade Universitária,
+      Recife - PE, 50670-901
+    city: 'Recife-PE '
+    post-code: 55825-000
+    email: erobeng@gmail.com
+    tel: '8199218052'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/ErisonBarros/ajustamento-de-Observa-es-II
+    description: Aulas de Ajustamento II
+repository-code: >-
+  https://github.com/ErisonBarros/ajustamento-de-Observa-es-II
+url: >-
+  https://erisonbarros.gitbook.io/ajustamento-das-observacoes-ii
+abstract: ' Ajustamento de Observações II do curso de Engenharia Cartográfica e de Agrimensura! Este repositório foi criado para apoiar as atividades da disciplina, facilitando o acesso ao material de estudo, exercícios, exemplos de código e outras ferramentas úteis.'
+keywords:
+  - Ajustamento de Observações II
+  - Engenharia Cartografica e de Agrimensura
+  - 'Métodos '
+license: GPL-3.0-or-later
+version: '1'
+date-released: '2024-11-17'
