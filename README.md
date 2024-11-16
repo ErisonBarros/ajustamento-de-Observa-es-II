@@ -14,7 +14,7 @@ Bem-vindo ao repositório da disciplina **Ajustamento de Observações II** do c
 
 O **Ajustamento de Observações II** é uma disciplina fundamental que aborda métodos matemáticos e estatísticos para reduzir erros e melhorar a precisão de medições em levantamentos geodésicos e cartográficos. Os tópicos incluem:
 
-### [Aula 01](https://classroom.google.com/c/Njg2NzgyNTM3MDQz/m/Njg2NzgyNTM3MDY3/details)
+### [Aula 01 - Introdutória ](https://classroom.google.com/c/Njg2NzgyNTM3MDQz/m/Njg2NzgyNTM3MDY3/details)
   - 1.1 Considerações iniciais
   - 1.2 Conceito de Observação
   - 1.3 Conceito de Modelo Matemático
