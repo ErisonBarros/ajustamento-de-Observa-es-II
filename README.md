@@ -4,7 +4,7 @@
 **Departamento de Engenharia Cartográfica**  
 **Universidade Federal de Pernambuco - UFPE**  
 
-Bem-vindo ao repositório da disciplina **Ajustamento de Observações** do curso de Engenharia Cartográfica e de Agrimensura! Este repositório foi criado para apoiar as atividades da disciplina, facilitando o acesso ao material de estudo, exercícios, exemplos de código e outras ferramentas úteis.
+Bem-vindo ao repositório da disciplina **Ajustamento de Observações II** do curso de Engenharia Cartográfica e de Agrimensura! Este repositório foi criado para apoiar as atividades da disciplina, facilitando o acesso ao material de estudo, exercícios, exemplos de código e outras ferramentas úteis.
 
 ## 📚 Sobre a Disciplina
 
