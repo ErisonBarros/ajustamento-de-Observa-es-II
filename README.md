@@ -44,3 +44,21 @@ Para acompanhar as atividades da disciplina, siga estas instruções:
 1. **Clone o repositório** em sua máquina local:
    ```bash
    git clone https://github.com/SEU_USUARIO/Ajustamento-de-Observacoes.git
+
+   
+## Informações para citação
+Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite a fonte do material:
+
+Barros (2022), Ajustamento de Observações II. On-line:[Ajustamento de Observações II](https://github.com/ErisonBarros/ajustamento-de-Observa-es-II) Versão 1.00; Licença Pública Geral GNU v3.0.
+
+@Misc{Carvalho2020MC202,
+título={Ajustamento de Observações II},
+autor={Barros. Erison Rosa de Oliveira},
+como foi publicado={\url{https://github.com/iagoac/mc202 }},
+ano={2024},
+nota={Versão 1.00; GNU General Public License v3.0}
+}
+
+Erison Rosa de Oliveira Barros
+erison.barros@ufpe.br
+https://github.com/ErisonBarros/ErisonBarros
