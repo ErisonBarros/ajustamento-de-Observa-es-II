@@ -51,6 +51,8 @@ Se você utilizar o material desta disciplina de qualquer maneira, por favor, ci
 
 Barros (2022), Ajustamento de Observações II. On-line:[Ajustamento de Observações II](https://github.com/ErisonBarros/ajustamento-de-Observa-es-II) Versão 1.00; Licença Pública Geral GNU v3.0.
 
+[citação](
+
 @software{Aulas de Ajustamento de Observações II_2024,
   author = {Lisa, Mona and Bot, Hew},
   doi = {},
