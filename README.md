@@ -51,16 +51,14 @@ Se você utilizar o material desta disciplina de qualquer maneira, por favor, ci
 
 Barros (2022), Ajustamento de Observações II. On-line:[Ajustamento de Observações II](https://github.com/ErisonBarros/ajustamento-de-Observa-es-II) Versão 1.00; Licença Pública Geral GNU v3.0.
 
-@article{Lisa_My_awesome_research_2021,
+@software{Aulas de Ajustamento de Observações II_2024,
   author = {Lisa, Mona and Bot, Hew},
-  doi = {10.0000/00000},
-  journal = {Journal Title},
-  month = {9},
-  number = {1},
-  pages = {1--10},
-  title = {{My awesome research software}},
-  volume = {1},
-  year = {2021}
+  doi = {},
+  month = {12},
+  title = {{Aulas de Ajustamento de Observações II}},
+  url = {https://https://github.com/ErisonBarros/ajustamento-de-Observa-es-II},
+  version = {1.0.0},
+  year = {2024}
 }
 Erison Rosa de Oliveira Barros
 erison.barros@ufpe.br
