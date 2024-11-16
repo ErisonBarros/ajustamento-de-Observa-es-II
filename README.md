@@ -7,8 +7,8 @@
 Bem-vindo ao repositório da disciplina **Ajustamento de Observações II** do curso de Engenharia Cartográfica e de Agrimensura! Este repositório foi criado para apoiar as atividades da disciplina, facilitando o acesso ao material de estudo, exercícios, exemplos de código e outras ferramentas úteis.
 > Professor:
 > Dr. Eng. Cartógrafo Eison Rosa de Oliveira Barros
-> Turma 2024.1
-> [turma 2024.2](https://classroom.google.com/c/Njg2NzgyNTM3MDQz?cjc=e6ezcat)
+-  Turma 2024.1
+- [turma 2024.2](https://classroom.google.com/c/Njg2NzgyNTM3MDQz?cjc=e6ezcat)
 
 ## 📚 Sobre a Disciplina
 
