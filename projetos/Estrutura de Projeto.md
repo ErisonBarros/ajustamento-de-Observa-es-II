@@ -1,3 +1,10 @@
+# Observations-Adjustment-Model
+
+Este repositório contém um modelo de ajustamento de observações em Ciências Cartográficas, documentado e organizado para facilitar o uso e o entendimento.
+
+## Estrutura do Projeto
+
+```plaintext
 Observations-Adjustment-Model
 ├── README.md
 ├── docs
@@ -22,6 +29,7 @@ Observations-Adjustment-Model
 │   └── README.md
 ├── LICENSE
 └── CONTRIBUTING.md
+
 
 ## Descrição dos Arquivos e Pastas
 
