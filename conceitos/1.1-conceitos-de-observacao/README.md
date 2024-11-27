@@ -1,4 +1,4 @@
-# 1.1 Conceitos de Observação
+# 2.1 Conceitos de Observação
 
 **Introdução**
 
@@ -59,6 +59,8 @@ Erros são inevitáveis em qualquer processo de medição e podem ser classifica
   * Refere-se à proximidade das medições em relação ao valor verdadeiro.
   * Uma medição é exata se estiver próxima do valor real do fenômeno medido.
 
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Conceito de Ajustamento</p></figcaption></figure>
+
 **Importância das Observações**
 
 * **Base para Análise**: Observações fornecem os dados necessários para análise, modelagem e tomada de decisões.
@@ -73,8 +75,6 @@ Erros são inevitáveis em qualquer processo de medição e podem ser classifica
   * Coleta de dados sobre temperatura, umidade, pressão atmosférica e velocidade do vento para prever o tempo.
 * **Engenharia**:
   * Monitoramento de tensões, deformações e deslocamentos em estruturas para garantir a segurança e a integridade.
-
-**Conclusão**
 
 Observações são a base de toda investigação científica e técnica. Elas fornecem os dados necessários para entender, modelar e prever fenômenos, bem como para tomar decisões informadas. A precisão e a exatidão das observações são cruciais para a confiabilidade dos resultados obtidos.
 
