@@ -6,6 +6,7 @@
   * [2.1 Conceitos de Observação](conceitos/1.1-conceitos-de-observacao/README.md)
     * [2.2 Conceitos de Modelos Matematicos](conceitos/1.1-conceitos-de-observacao/1.2-conceitos-de-modelos-matematicos.md)
     * [2.3 Conceito de Modelo Funcional](conceitos/1.1-conceitos-de-observacao/1.3-conceito-de-modelo-funcional.md)
+    * [2.3.1 Características do Modelo Funcional](conceitos/1.1-conceitos-de-observacao/2.3.1-caracteristicas-do-modelo-funcional.md)
     * [2.4 Conceito de Modelo Estocastico](conceitos/1.1-conceitos-de-observacao/1.4-conceito-de-modelo-estocastico.md)
 * [3. Métodos de Ajustamento de Observações](3.-metodos-de-ajustamento-de-observacoes/README.md)
   * [3.1. Método dos Mínimos Quadrados (MMQ)](3.-metodos-de-ajustamento-de-observacoes/1.-metodo-dos-minimos-quadrados-mmq.md)
