@@ -21,5 +21,7 @@ No método das Equações de Condição, não há parâmetros, apenas observaç�
 
 **Modelo das Observações Condicionadas**
 
-$$𝐹(𝐿𝑎)=0F(La)=0$$ Quando as observações estiverem ajustadas pelo MMQ, não terão mais o erro de fechamento e a condição será atendida.
+$$𝐹(𝐿𝑎)=0$$
+
+Quando as observações estiverem ajustadas pelo MMQ, não terão mais o erro de fechamento e a condição será atendida.
 
