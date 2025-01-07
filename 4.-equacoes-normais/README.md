@@ -1,4 +1,4 @@
-# EQUAÇÕES NORMAIS
+# 4. EQUAÇÕES NORMAIS
 
 ## 10.2 — Equações Normais
 
@@ -15,3 +15,9 @@ $$\frac{\partial \phi}{\partial V} = 2P V - 2B^T K \cdot P V - B^T K = 0, \tag{1
 $$\frac{\partial \phi}{\partial K} = -2(AX + BV + W) \cdot AX + BV + W = 0, \tag{10.2.3}$$
 
 $$\frac{\partial \phi}{\partial X} = -2A^T K \cdot A^T K = 0. \tag{10.2.4}$$
+
+
+
+***
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>

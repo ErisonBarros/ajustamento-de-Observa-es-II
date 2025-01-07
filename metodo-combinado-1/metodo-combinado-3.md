@@ -13,3 +13,7 @@ $$-r A_u \ u X_1 + r B_n \ n V_1 + r W_1 = r 0_1$$
 Temos agora $$S = r - u$$ graus de liberdade, sendo necessário que
 
 $$n > r - u.$$
+
+
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
