@@ -16,6 +16,8 @@
   * [Aula 01](aulas/aula-01.md)
   * [Aula: Ajustamento com Injunções](aulas/aula-ajustamento-com-injuncoes.md)
   * [Introdução ao Git e GitHub](aulas/introducao-ao-git-e-github.md)
+  * [1. Criação do Repositório no GitHub](aulas/1.-criacao-do-repositorio-no-github.md)
+  * [Instalação do Guit e do Guithub](aulas/instalacao-do-guit-e-do-guithub.md)
 * [Exemplo de Aplicação](exemplo-de-aplicacao.md)
 * [Método Combinado de Ajustamento de Observações](metodo-combinado-de-ajustamento-de-observacoes.md)
 * [Método Combinado 1](metodo-combinado-1/README.md)
