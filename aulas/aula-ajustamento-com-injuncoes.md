@@ -8,12 +8,12 @@ O ajustamento com injunções é uma técnica utilizada em geodésia e topografi
 
 Equações de condição são usadas para definir restrições entre observações, enquanto as injunções são restrições impostas diretamente aos parâmetros.
 
-* **Equações de injunção**: ( $C \cdot X = W$ )
+* **Equações de injunção**: ( $$C \cdot X = W$$ )
 * **Modelo matemático linearizado**: $$\epsilon_{C }= W'$$
 
 ### Ajustamento Paramétrico com Injunções
 
-O modelo matemático para injunções ponderadas é dado por: \[ \phi(X) = \frac{1}{2} (V^T P V + (AX - L)^T Q (AX - L) + (CX - W)^T R (CX - W)) ]
+O modelo matemático para injunções ponderadas é dado por: $$[ \phi(X) = \frac{1}{2} (V^T P V + (AX - L)^T Q (AX - L) + (CX - W)^T R (CX - W)) ]$$
 
 Onde:
 
@@ -26,9 +26,9 @@ Onde:
 
 ### Resolvendo o Ajustamento
 
-Para resolver o ajustamento com injunções, derivamos a função objetivo e igualamos a zero: \[ \frac{\partial \phi}{\partial X} = 0 ]
+Para resolver o ajustamento com injunções, derivamos a função objetivo e igualamos a zero:$$[ \frac{\partial \phi}{\partial X} = 0 ]$$
 
-Resultando na seguinte equação matricial: \[ (A^T P A + C^T R C) X = A^T P L + C^T R W ]
+Resultando na seguinte equação matricial:$$[ (A^T P A + C^T R C) X = A^T P L + C^T R W ]$$
 
 ### Exemplos de Injunções
 
@@ -44,7 +44,7 @@ Alguns tipos comuns de injunções são:
 
 #### Exemplo de Ajustamento Paramétrico com Injunções
 
-Dado um polígono ABCD com coordenadas conhecidas e isentas de erro no referencial ( X\_1 X\_2 ), aplicou-se a transformação: \[ x\_1 = a + bx - dy ] \[ x\_2 = c + bx + dy ]
+Dado um polígono ABCD com coordenadas conhecidas e isentas de erro no referencial $$( X_1 X_2 )$$, aplicou-se a transformação:$$[ x_1 = a + bx - dy ] [ x_2 = c + bx + dy ]$$
 
 Após a transformação, o ponto D deve ter a coordenada fixada em (-16,00; 60,00). Os demais pontos tiveram suas coordenadas observadas conforme a tabela abaixo:
 
@@ -57,7 +57,7 @@ Após a transformação, o ponto D deve ter a coordenada fixada em (-16,00; 60,0
 
 **Modelo Matemático**
 
-\[ \begin{cases} y\_1 = a + bx - dy \ y\_2 = c + bx + dy \end{cases} ]
+$$[\begin{cases} y_1 = a + bx - dy \ y_2 = c + bx + dy \end{cases} ]$$
 
 **Passos para o Ajustamento**
 
