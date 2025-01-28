@@ -27,14 +27,14 @@ $$
 
 Onde:
 
-* **A : Matriz de design (m×nm \times nm×n)**
+* **A : Matriz de design**
   * Representa as relações lineares entre as observações e os parâmetros desconhecidos.
   * Suas dimensões m×nm \times nm×n indicam que há mmm observações e nnn parâmetros desconhecidos.
   * Geralmente, é composta por coeficientes que ligam cada parâmetro desconhecido a cada equação de observação.
-* **x : Vetor de parâmetros desconhecidos (n×1n \times 1n×1)**
+* **x : Vetor de parâmetros desconhecidos**&#x20;
   * Contém as variáveis que queremos determinar.
   * É um vetor coluna com nnn elementos, onde nnn é o número de parâmetros a serem estimados.
-* **e: Vetor de resíduos (m×1m \times 1m×1)**
+* **e: Vetor de resíduos**&#x20;
   * Representa as discrepâncias entre os valores observados e os ajustados (modelados).
   * Suas dimensões m×1m \times 1m×1 correspondem ao número de observações.
 
@@ -48,7 +48,7 @@ $$
 
 ### Resolução pelo MMQ
 
-Para minimizar (S), derivamos em relação a (\mathbf{x}) e igualamos a zero:
+Para minimizar (S), derivamos em relação a $$(\mathbf{x})$$ e igualamos a zero:
 
 $$
 \frac{\partial S}{\partial \mathbf{x}} = -2\mathbf{A}^T(\mathbf{y} - \mathbf{A}\mathbf{x}) = 0
@@ -60,7 +60,7 @@ $$
 \mathbf{A}^T\mathbf{A}\mathbf{x} = \mathbf{A}^T\mathbf{y}
 $$
 
-A solução para (\mathbf{x}) é:
+A solução para $$(\mathbf{x})$$ é:
 
 $$
 \mathbf{x} = (\mathbf{A}^T\mathbf{A})^{-1}\mathbf{A}^T\mathbf{y}
@@ -85,7 +85,7 @@ $$
        \text{Cov}(\mathbf{x}) = (\mathbf{A}^T\mathbf{A})^{-1}\sigma^2
        $$
 
-       Onde (\sigma^2) é a variância das observações.
+       Onde $$\sigma^2$$ é a variância das observações.
 
 ***
 
@@ -99,7 +99,7 @@ $$
 
 ### Exemplo Simplificado
 
-#### Problema: Ajustar uma linha reta (y = mx + c) a dados observados ((x\_i, y\_i)).
+#### Problema: Ajustar uma linha reta (y = mx + c) a dados observados  $ (x\_i, y\_i)$ .
 
 **Matriz de design**:
 

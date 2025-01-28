@@ -16,6 +16,7 @@
   * [Aula 01](aulas/aula-01.md)
   * [Introdução ao Método dos Mínimos Quadrados](aulas/introducao-ao-metodo-dos-minimos-quadrados.md)
   * [Aula: Ajustamento com Injunções](aulas/aula-ajustamento-com-injuncoes.md)
+  * [Método Correlato](aulas/metodo-correlato.md)
   * [Introdução ao Git e GitHub](aulas/introducao-ao-git-e-github.md)
   * [1. Criação do Repositório no GitHub](aulas/1.-criacao-do-repositorio-no-github.md)
   * [Instalação do Guit e do Guithub](aulas/instalacao-do-guit-e-do-guithub.md)
