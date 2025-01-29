@@ -16,6 +16,7 @@
   * [Aula 01](aulas/aula-01.md)
   * [Introdução ao Método dos Mínimos Quadrados](aulas/introducao-ao-metodo-dos-minimos-quadrados.md)
   * [Aula: Ajustamento com Injunções](aulas/aula-ajustamento-com-injuncoes.md)
+  * [Exemplo: Aplicação do Método Correlato em uma Rede de Nivelamento](aulas/exemplo-aplicacao-do-metodo-correlato-em-uma-rede-de-nivelamento.md)
   * [Método Correlato](aulas/metodo-correlato.md)
   * [Introdução ao Git e GitHub](aulas/introducao-ao-git-e-github.md)
   * [1. Criação do Repositório no GitHub](aulas/1.-criacao-do-repositorio-no-github.md)
