@@ -7,7 +7,7 @@
     \begin{bmatrix} x - x_0 \\ y - y_0 \end{bmatrix}^T \Sigma_P^{-1} \begin{bmatrix} x - x_0 \\ y - y_0 \end{bmatrix} = 1
     $$
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

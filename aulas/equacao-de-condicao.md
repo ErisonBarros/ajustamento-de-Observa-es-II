@@ -115,6 +115,6 @@ A solução fornece as correções ( \mathbf{e} ) que devem ser aplicadas às ob
 
 ***
 
-### Conclusão
+### Observação:
 
 As equações de condição são essenciais para garantir a **consistência e qualidade dos dados geodésicos**. O **Método Correlato** permite ajustar observações respeitando vínculos matemáticos, reduzindo erros e assegurando resultados confiáveis.

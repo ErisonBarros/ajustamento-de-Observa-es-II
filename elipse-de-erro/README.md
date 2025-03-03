@@ -1,4 +1,4 @@
-# Elipse de Erro
+# 6. Elipse de Erro
 
 ### Elipse dos Erros
 
@@ -20,4 +20,4 @@ $$
 \begin{bmatrix} \cos(t) & \sin(t) \\ -\sin(t) & \cos(t) \end{bmatrix}
 $$
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="151"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png" alt="" width="151"><figcaption></figcaption></figure>

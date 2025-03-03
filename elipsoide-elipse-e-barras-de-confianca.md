@@ -17,14 +17,10 @@ $$c = \sqrt{d \cdot F_{(d,n-u)}}$$
 
 <figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

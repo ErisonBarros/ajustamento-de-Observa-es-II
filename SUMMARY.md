@@ -19,6 +19,7 @@
   * [Exemplo: Aplicação do Método Correlato em uma Rede de Nivelamento](aulas/exemplo-aplicacao-do-metodo-correlato-em-uma-rede-de-nivelamento.md)
   * [Método Correlato](aulas/metodo-correlato.md)
   * [Equação de Condição](aulas/equacao-de-condicao.md)
+  * [Exemplos em Nívelamento](aulas/exemplos-em-nivelamento.md)
   * [Introdução ao Git e GitHub](aulas/introducao-ao-git-e-github.md)
   * [1. Criação do Repositório no GitHub](aulas/1.-criacao-do-repositorio-no-github.md)
   * [Instalação do Guit e do Guithub](aulas/instalacao-do-guit-e-do-guithub.md)
