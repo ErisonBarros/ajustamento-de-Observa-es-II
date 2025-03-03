@@ -35,9 +35,9 @@ $$
 
 Onde:
 
-* (\mathbf{B}): Matriz dos coeficientes das condições ((p \times m)).
-* (\mathbf{y}): Vetor de observações ((m \times 1)).
-* (\mathbf{b}): Vetor de constantes ((p \times 1)).
+* $$\mathbf{B}$$: Matriz dos coeficientes das condições $$(p \times m)$$.
+* $$\mathbf{y}$$: Vetor de observações $$(m \times 1)$$
+* $$\mathbf{b}$$: Vetor de constantes $$(p \times 1)$$
 
 ***
 
@@ -81,13 +81,13 @@ $$
 
 Onde:
 
-* (\mathbf{Q}\_e): Matriz de variâncias e covariâncias das observações.
-* (\boldsymbol{\lambda}): Multiplicadores de Lagrange.
+* $$\mathbf{Q}_e$$ Matriz de variâncias e covariâncias das observações.
+* $$\boldsymbol{\lambda}$$: Multiplicadores de Lagrange.
 
 A solução fornece:
 
-* (\mathbf{e}): Correções nas observações.
-* (\boldsymbol{\lambda}): Multiplicadores associados às condições.
+* $$\mathbf{e}$$: Correções nas observações.
+* $$\boldsymbol{\lambda}$$: Multiplicadores associados às condições.
 
 ***
 
