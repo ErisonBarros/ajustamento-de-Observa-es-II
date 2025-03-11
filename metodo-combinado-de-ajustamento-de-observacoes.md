@@ -50,7 +50,7 @@ $$
     Onde ( W ) é o vetor dos resíduos iniciais.
 2. **Resolução das Equações Normais:**
 
-#### 4. Resolução das Equações Normais
+#### &#x20;  3. Resolução das Equações Normais
 
 Para resolver o sistema linearizado, seguimos os seguintes passos:
 

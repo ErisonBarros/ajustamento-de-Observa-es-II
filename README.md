@@ -4,10 +4,6 @@ description: Prof. Erison Rosa de Oliveira Barros
 
 # Ajustamento de Observações II
 
-```html
-print(V.bins)
-```
-
 **Departamento de Engenharia Cartográfica**\
 **Universidade Federal de Pernambuco - UFPE**
 
