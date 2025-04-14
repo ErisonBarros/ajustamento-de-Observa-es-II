@@ -27,12 +27,12 @@ O **Ajustamento de Observações II** é uma disciplina fundamental que aborda m
 
 ### [Aula 02 - Apresentação de Projeto de Modelos de Ajustamento - Aula de Portfólio no GitHub](https://docs.google.com/presentation/d/1s-3H4KjD3zZMPw6OtFA0ayA2COx_Xw5I__Z233ZmRKY/edit?usp=sharing)
 
-* [Introdução ao Python](https://classroom.google.com/w/Njg2NzgyNTM3MDQz/tc/Njg2NzgyNTM3MDYw)
-* Introdução ao Ajustamento de Observações
-* Métodos de Mínimos Quadrados
-* Teoria dos Erros
-* Ajustamento de Redes Geodésicas
-* Software e Ferramentas para Ajustamento
+* 2.1 [Introdução ao Python](https://classroom.google.com/w/Njg2NzgyNTM3MDQz/tc/Njg2NzgyNTM3MDYw)
+* 2.2 Introdução ao Ajustamento de Observações
+* 2.3 Métodos de Mínimos Quadrados
+* 2.4 Teoria dos Erros
+* 2.5 Ajustamento de Redes Geodésicas
+* 2.6 Software e Ferramentas para Ajustamento
 
 ## 📂 Estrutura do Repositório
 
