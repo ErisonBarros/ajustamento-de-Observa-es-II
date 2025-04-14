@@ -1,0 +1,37 @@
+## Objetivo Geral:Explorar o uso dos métodos correlatos no ajustamento de observações aplicadas a projetos de topografia e fotogrametria, identificando suas vantagens, limitações e aplicabilidade em casos práticos.
+
+Tópicos a serem abordados no trabalho:Introdução ao tema:
+Contextualização sobre a importância do ajustamento de observações em Topografia e Fotogrametria.
+Papel dos métodos correlatos no processo de ajustamento.
+Conceitos fundamentais:
+Definição do método correlato.
+Formulação matemática básica e propriedades.
+Diferença entre os métodos correlatos e outros métodos de ajustamento, como mínimos quadrados clássicos.
+Aplicações práticas em Topografia:
+Exemplos de uso do método correlato no ajustamento de redes de nivelamento e redes planimétricas.
+Discussão de casos reais ou hipotéticos.
+Aplicações práticas em Fotogrametria:
+Ajustamento de blocos de imagens aéreas e geração de ortofotos.
+Uso de correlatos para minimizar erros em mosaicos de imagens.
+Estudo comparativo:
+Comparar a precisão dos métodos correlatos com outras abordagens em cenários semelhantes.
+Realizar simulações ou apresentar análises baseadas em dados reais (se aplicável).
+Discussão de resultados:
+Análise crítica sobre a eficiência do método correlato em relação a custo computacional, precisão e facilidade de implementação.
+Conclusão e recomendações:
+Resumo dos principais pontos abordados.
+Sugestões de melhorias ou adaptações do método para aplicações futuras.
+Metodologia do Trabalho:
+Revisão bibliográfica: Pesquisar artigos, livros e materiais didáticos sobre métodos correlatos e ajustamento de observações.
+Estudo de caso prático: Aplicar os métodos correlatos em um exemplo fornecido ou criar um caso fictício baseado em dados teóricos.
+Software sugerido: Utilizar ferramentas como Python, ou softwares específicos de Topografia e Fotogrametria (ex.: CloudCompare, QGIS, etc.).
+Estrutura do Relatório Final:Capa
+Resumo e palavras-chave
+Introdução
+Desenvolvimento (com os tópicos mencionados acima)
+Conclusão
+Referências bibliográficas
+Prazos e Diretrizes:
+Entrega do Trabalho: 30/12/2024
+Formato: Markdown em ambiente Web (Notion, Colab ou Gitbook)
+Apresentação: Retorno das Aulas em Janeiro
