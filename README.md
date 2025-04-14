@@ -52,6 +52,9 @@ Para acompanhar as atividades da disciplina, siga estas instruções:
 
     ```
 
+## Livros de Ajustamento 
+
+
 ## Informações para citação
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite a fonte do material:
